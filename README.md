@@ -143,7 +143,8 @@ TARGET_PHONE=+919876543210
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshot![image](https://github.com/user-attachments/assets/b718ec68-7c87-4ddd-a593-32425dcd579e)
+
 
 ![NIDS Dashboard Screenshot](screenshot.png)
 
