@@ -144,6 +144,7 @@ TARGET_PHONE=+919876543210
 ---
 
 ## 📸 Screenshot![image](https://github.com/user-attachments/assets/b718ec68-7c87-4ddd-a593-32425dcd579e)
+![image](https://github.com/user-attachments/assets/cdcadeaf-459d-472a-92c6-90697f945f2d)
 
 
 ![NIDS Dashboard Screenshot](screenshot.png)
