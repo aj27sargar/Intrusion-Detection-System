@@ -149,5 +149,3 @@ TARGET_PHONE=+919876543210
 ## 🛡️ Disclaimer
 
 This is a demo project for academic/educational purposes and may not cover all edge cases in production-grade intrusion detection systems.
-
-```
