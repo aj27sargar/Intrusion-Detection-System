@@ -1,8 +1,4 @@
 
-
-### ✅ Complete `README.md`:
-
-```markdown
 # 🚨 Network-Based Intrusion Detection System (NIDS)
 
 This project is a Network-based Intrusion Detection System (NIDS) built using Python and anomaly detection techniques. It uses the KDDTrain+ dataset to detect suspicious or anomalous network activities and sends SMS alerts via Twilio when anomalies are found. The system also includes a Streamlit dashboard for real-time monitoring.
@@ -149,7 +145,6 @@ TARGET_PHONE=+919876543210
 
 ![NIDS Dashboard Screenshot](screenshot.png)
 
----
 
 ## 🛡️ Disclaimer
 
